@@ -1,0 +1,9 @@
+bots:
+  discordbot:
+    enabled: true
+  ohlcv_collector:
+    enabled: true
+  wallet_swap:
+    enabled: false
+  copybuy_bot:
+    enabled: false
