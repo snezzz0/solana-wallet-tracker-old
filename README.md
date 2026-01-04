@@ -1,6 +1,9 @@
-# CopyBot
+> [!WARNING] 
+OUTDATED, CURRENTLY BEING REWRITTEN AND THE LOGIC REWORKED.
 
-CopyBot is a sophisticated automated system designed to **track, analyze, and optimize Solana copy-trading wallets**. It monitors specific wallets, alerts on their trades, tracks the performance (PNL) of the tokens they buy, and automatically suggests or implements wallet replacements based on performance data.
+# Solana Wallet and PNL tracker 
+
+The code has 3 main components to **track, analyze, and optimize Solana copy-trading wallets**. It monitors specific wallets, alerts on their trades, tracks the performance (PNL) of the tokens they buy, and automatically suggests or implements wallet replacements based on performance data.
 
 ## Workflow
 
